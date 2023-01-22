@@ -1,0 +1,1273 @@
+[
+    {
+        "name":"Alex Meret",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250066753.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Minjae Kim",
+        "position":"Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250175065.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Juan Jesus",
+        "position":"Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250045594.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Mario Rui",
+        "position":"Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/1907928.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Amir Rrahmani",
+        "position":"Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250059233.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Tanguy Ndombele",
+        "position":"Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250112778.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Eljif Elmas",
+        "position":"Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250091841.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Victor Osimhen",
+        "position":"Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250132987.jpg",
+        "team": "Napoli"
+    },{
+        "name": "Hirving Lozano",
+        "position":"Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250106789.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Giovanni Simeone",
+        "position":"Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250176138.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name": "Matteo Politano",
+        "position":"Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250050381.jpg",
+        "team": "Napoli"
+    },
+    {
+        "name":"Alisson Becker",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250099867.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Virgil van Dijk",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250043137.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Trent Alexander-Arnold",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250076357.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Andrew Robertson",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250066157.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Joe Gomez",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250058215.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Fabinho",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250053907.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Thiago Alcantara",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1906776.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"James Milner",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/70120.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Roberto Firmino",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250080619.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Mohamed Salah",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250052469.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Luis Diaz",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250132811.jpg",
+        "team": "Liverpool"
+    },
+    {
+        "name":"Maarten Stekelenburg",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250080520.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Jurrlen Timber",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250101728.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Calvin Bassey",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250102516.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Owen Wijndal",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250097317.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Ahmetcan Kaplan",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250129578.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Edson Alvarez",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250090656.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Davy Klaassen",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250013855.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Kenneth Taylor",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250113011.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Mohammed Kudus",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250121904.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Steven Bergwijn",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250066551.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Brian Brobbey",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250112997.jpg",
+        "team":"Ajax"
+    },
+    {
+        "name":"Allan McGregor",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/48714.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"James Tavernier",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250025426.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Ridvan Yilmaz",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250108732.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Connor Goldson",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250120875.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"John Souttar",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250056853.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"John Lundstram",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250024786.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Ryan Jack",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250005085.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Steven Davis",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/62176.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Ryan Kent",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250076367.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Antonio Colak",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250043080.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Thomas Lawrence",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250174804.jpg",
+        "team": "Rangers"
+    },
+    {
+        "name":"Claudio Ramos",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1909059.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Fabio Cardoso",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250054426.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Pepe",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/95417.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"David Carmo",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250117455.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Ivan Marcano",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250003525.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Matheus Uribe",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250118245.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Marko Grujic",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250055207.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Andre Franco",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250102294.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Otavio",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250085693.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Gabrial Veron",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250174943.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Mehdi Taremi",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250097909.jpg",
+        "team":"Porto"
+    },
+    {
+        "name":"Simon Mignolet",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/98078.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Eduard Sobol",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250042644.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Joel Ordonez",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250176201.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Dennis Odoi",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250012039.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Bjorn Meijer",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250169303.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Lynnt Audoor",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250130405.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Cisse Sandra",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250135248.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Eder Balanta",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250067467.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Ebeguowen Otasowie",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250132505.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Andreas Skov Olsen",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250097638.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Ferran Jutgla",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/75x75/250173126.jpg",
+        "team":"Club Brugge"
+    },
+    {
+        "name":"Lukas Hradecky",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1907188.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Piero Hincapie",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250163454.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Jonathan Tah",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250055660.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Mitchel Bakker",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250101723.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Odilon Kossounou",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250132810.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Robert Andrich",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250055957.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Kerem Demirbay",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250082943.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Nadiem Amiri",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250078643.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Chales Aranguiz",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250017121.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Paulinho",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250122712.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Sardar Azmoun",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250061030.jpg",
+        "team":"Bayer Leverkusen"
+    },
+    {
+        "name":"Ivo Grbic",
+        "position":"Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250056074.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Jose Maria Gimenez",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250063505.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Sergio Reguilon",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250076708.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Stefan Savic",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1907998.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Nahuel Molina",
+        "position":"Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250172673.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Geoffrey Kondogbia",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250014009.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Rodrigo De Paul",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250086037.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Koke",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1909917.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Thomas Lemar",
+        "position":"Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250042778.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Joao Felix",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250101463.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Antoine Griezmann",
+        "position":"Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250019498.jpg",
+        "team":"Atletico Madrid"
+    },
+    {
+        "name":"Manuel Neuer",
+        "position": "Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/97923.jpg",
+        "team":"Bayern Munich"
+    },
+    {
+        "name":"Thomas Muller",
+        "position": "Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250003318.jpg",
+        "team":"Bayern Munich"
+    },
+    {
+        "name":"Sadio Mane",
+        "position": "Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250061119.jpg",
+        "team":"Bayern Munich"
+    },
+    {
+        "name":"Joshua Kimmich",
+        "position": "Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250070417.jpg",
+        "team":"Bayern Munich"
+    },
+    {
+        "name":"Dayot Upamecano",
+        "position": "Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250079545.jpg",
+        "team":"Bayern Munich"
+    },
+    {
+        "name": "Samir Handanovic",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/68842.jpg",
+        "team": "Inter Milan"
+    },
+    {
+        "name": "Denzel Dumfries",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250112690.jpg",
+        "team": "Inter Milan"
+    },
+    {
+        "name": "Roberto Gagliardini",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250105920.jpg",
+        "team": "Inter Milan"
+    },
+    {
+        "name": "Edin Dzeko",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/72048.jpg",
+        "team": "Inter Milan"
+    },
+    {
+        "name": "Lautaro Martinez",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250118281.jpg",
+        "team": "Inter Milan"
+    },
+    {
+        "name":"Marc-Andre ter Stegen",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250007631.jpg",
+        "team":"Barcelona"
+    },
+    {
+        "name":"Jordi Alba",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250000036.jpg",
+        "team":"Barcelona"
+    },
+    {
+        "name":"Pedri",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250143693.jpg",
+        "team":"Barcelona"
+    },
+    {
+        "name":"Gavi",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250139255.jpg",
+        "team":"Barcelona"
+    },
+    {
+        "name":"Ousmane Dembele",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250066886.jpg",
+        "team":"Barcelona"
+    },
+    {
+        "name":"Robert Lewandowski",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250002096.jpg",
+        "team":"Barcelona"
+    },
+    {
+        "name": "Marian Tvrdon",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250159115.jpg",
+        "team": "Viktoria Plzen"
+    },
+    {
+        "name": "Lukas Hejda",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/107306.jpg",
+        "team": "Viktoria Plzen"
+    },
+    {
+        "name": "Veclav Pilar",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250021555.jpg",
+        "team": "Viktoria Plzen"
+    },
+    {
+        "name": "Jan Sykora",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250016829.jpg",
+        "team": "Viktoria Plzen"
+    },
+    {
+        "name": "Jan Kliment",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250042994.jpg",
+        "team": "Viktoria Plzen"
+    },
+    {
+        "name": "Hugo Lloris",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/93846.jpg",
+        "team":"Tottenham Hotspur"
+    },
+    {
+        "name": "Matt Doherty",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250027820.jpg",
+        "team":"Tottenham Hotspur"
+    },
+    {
+        "name": "Oliver Skipp",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250102485.jpg",
+        "team":"Tottenham Hotspur"
+    },
+    {
+        "name": "Heung-Min Son",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250043463.jpg",
+        "team":"Tottenham Hotspur"
+    },
+    {
+        "name": "Harry Kane",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250016833.jpg",
+        "team":"Tottenham Hotspur"
+    },
+    {
+        "name": "Kevin Trapp",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/1902188.jpg",
+        "team": "Eintracht Frankfurt"
+    },
+    {
+        "name": "Evan N'Dicka",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250122785.jpg",
+        "team": "Eintracht Frankfurt"
+    },
+    {
+        "name": "Kristijan Jakic",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250099259.jpg",
+        "team": "Eintracht Frankfurt"
+    },
+    {
+        "name": "Djibril Sow",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250065420.jpg",
+        "team": "Eintracht Frankfurt"
+    },
+    {
+        "name": "Randal Kolo Muani",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250146926.jpg",
+        "team": "Eintracht Frankfurt"
+    },
+    {
+        "name": "Antonio Adan",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/69543.jpg",
+        "team": "Sporting Lisbon"
+    },
+    {
+        "name": "Matheus Reis",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250121330.jpg",
+        "team": "Sporting Lisbon"
+    },
+    {
+        "name": "Hidemasa Morita",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250156457.jpg",
+        "team": "Sporting Lisbon"
+    },
+    {
+        "name": "Sotirios Alexandropoulos",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250107142.jpg",
+        "team": "Sporting Lisbon"
+    },
+    {
+        "name": "Marcus Edwards",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250079522.jpg",
+        "team": "Sporting Lisbon"
+    },
+    {
+        "name": "Simon Ngapandouentnbu",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250144231.jpg",
+        "team": "Marseille"
+    },
+    {
+        "name": "Eric Bailly",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250081215.jpg",
+        "team": "Marseille"
+    },
+    {
+        "name": "Matteo Guendouzi",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250122927.jpg",
+        "team": "Marseille"
+    },
+    {
+        "name": "Gerson",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250100184.jpg",
+        "team": "Marseille"
+    },
+    {
+        "name": "Dimitri Payet",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/1901409.jpg",
+        "team": "Marseille"
+    },
+    {
+        "name": "Edouard Mendy",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250134380.jpg",
+        "team": "Chelsea"
+    },
+    {
+        "name": "Thiago Silva",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250011954.jpg",
+        "team": "Chelsea"
+    },
+    {
+        "name": "N'Golo Kante",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250097248.jpg",
+        "team": "Chelsea"
+    },
+    {
+        "name": "Raheem Sterling",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250024795.jpg",
+        "team": "Chelsea"
+    },
+    {
+        "name": "Kai Havertz",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250087938.jpg",
+        "team": "Chelsea"
+    },
+    {
+        "name": "Ciprian Tatarusanu",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/1902645.jpg",
+        "team": "AC Milan"
+    },
+    {
+        "name": "Davide Calabria",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250058044.jpg",
+        "team": "AC Milan"
+    },
+    {
+        "name": "Ismael Bennacer",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250087665.jpg",
+        "team": "AC Milan"
+    },
+    {
+        "name": "Sandro Tonali",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250117809.jpg",
+        "team": "AC Milan"
+    },
+    {
+        "name": "Olivier Giroud",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250020851.jpg",
+        "team": "AC Milan"
+    },
+    {
+        "name": "Nico Mantl",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250153323.jpg",
+        "team": "Salzburg"
+    },
+    {
+        "name": "Ignace Van Der Brempt",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250108593.jpg",
+        "team": "Salzburg"
+    },
+    {
+        "name": "Nicolas Capaldo",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250161140.jpg",
+        "team": "Salzburg"
+    },
+    {
+        "name": "Dijon Kameri",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250141023.jpg",
+        "team": "Salzburg"
+    },
+    {
+        "name": "Junior Adamu",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250112790.jpg",
+        "team": "Salzburg"
+    },
+    {
+        "name": "Danijel Zagorac",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250029377.jpg",
+        "team": "Dinamo Zagreb"
+    },
+    {
+        "name": "Sadegh Moharrami",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250121162.jpg",
+        "team": "Dinamo Zagreb"
+    },
+    {
+        "name": "Arijan Ademi",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250005231.jpg",
+        "team": "Dinamo Zagreb"
+    },
+    {
+        "name": "Luka Ivanusec",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250098468.jpg",
+        "team": "Dinamo Zagreb"
+    },
+    {
+        "name": "Bruno Petkovic",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250063394.jpg",
+        "team": "Dinamo Zagreb"
+    },
+    {
+        "name": "Thibaut Courtois",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250011668.jpg",
+        "team": "Real Madrid"
+    },
+    {
+        "name": "Dani Carvajal",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250024448.jpg",
+        "team": "Real Madrid"
+    },
+    {
+        "name": "Toni Kroos",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/103147.jpg",
+        "team": "Real Madrid"
+    },
+    {
+        "name": "Luka Modric",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/74699.jpg",
+        "team": "Real Madrid"
+    },
+    {
+        "name": "Eden Hazard",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/1902160.jpg",
+        "team": "Real Madrid"
+    },
+    {
+        "name": "Karim Benzema",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/93321.jpg",
+        "team": "Real Madrid"
+    },
+    {
+        "name": "Peter Gulcsi",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/102420.jpg",
+        "team": "RB Leipzig"
+    },
+    {
+        "name": "Mohamed Simakan",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250132434.jpg",
+        "team": "RB Leipzig"
+    },
+    {
+        "name": "Amadou Haidara",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250102866.jpg",
+        "team": "RB Leipzig"
+    },
+    {
+        "name": "Dominik Szoboszlai",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250104066.jpg",
+        "team": "RB Leipzig"
+    },
+    {
+        "name": "Dani Olmo",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250081720.jpg",
+        "team": "RB Leipzig"
+    },
+    {
+        "name": "Oleksiy Shevchenko",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250054476.jpg",
+        "team": "Shakhtar Donetsk"
+    },
+    {
+        "name": "Sarhiy Kryvtsov",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/107955.jpg",
+        "team": "Shakhtar Donetsk"
+    },
+    {
+        "name": "Taras Stepanenko",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/1902685.jpg",
+        "team": "Shakhtar Donetsk"
+    },
+    {
+        "name": "Andriy Totovytskyi",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250066468.jpg",
+        "team": "Shakhtar Donetsk"
+    },
+    {
+        "name": "Lassina Traore",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250128222.jpg",
+        "team": "Shakhtar Donetsk"
+    },
+    {
+        "name": "Joe Hart",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/104231.jpg",
+        "team": "Celtic"
+    },
+    {
+        "name": "Greg Taulor",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250112842.jpg",
+        "team": "Celtic"
+    },
+    {
+        "name": "Sead Haksabanovic",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250089866.jpg",
+        "team": "Celtic"
+    },
+    {
+        "name": "Liel Abada",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250108044.jpg",
+        "team": "Celtic"
+    },
+    {
+        "name": "Giorgos Giakoumakis",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250092695.jpg",
+        "team": "Celtic"
+    },
+    {
+        "name": "Ederson",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250073809.jpg",
+        "team": "Manchester City"
+    },
+    {
+        "name": "Kyle Walker",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250010259.jpg",
+        "team": "Manchester City"
+    },
+    {
+        "name": "Kalvin Phillips",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250143242.jpg",
+        "team": "Manchester City"
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250008901.jpg",
+        "team": "Manchester City"
+    },
+    {
+        "name": "Erling Haaland",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250103758.jpg",
+        "team": "Manchester City"
+    },
+    {
+        "name": "Gregor Kobel",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250069832.jpg",
+        "team": "Borussia Dortmund"
+    },
+    {
+        "name": "Nico Schlotterbeck",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250134856.jpg",
+        "team": "Borussia Dortmund"
+    },
+    {
+        "name": "Salih Ozcan",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250081693.jpg",
+        "team": "Borussia Dortmund"
+    },
+    {
+        "name": "Giovanni Reyna",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250134661.jpg",
+        "team": "Borussia Dortmund"
+    },
+    {
+        "name": "Youssoufa Moukoko",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250134659.jpg",
+        "team": "Borussia Dortmund"
+    },
+    {
+        "name": "Marko Dmitrovic",
+        "position": "Goalkeeper",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250005610.jpg",
+        "team": "Sevilla"
+    },
+    {
+        "name": "Gonzalo Montiel",
+        "position": "Defender",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250162767.jpg",
+        "team": "Sevilla"
+    },
+    {
+        "name": "Nemanja Gudelj",
+        "position": "Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1909874.jpg",
+        "team": "Sevilla"
+    },
+    {
+        "name": "Joan Jordan",
+        "position": "Midfielder",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250086646.jpg",
+        "team": "Sevilla"
+    },
+    {
+        "name": "Kasper Dolberg",
+        "position": "Forward",
+        "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/250177904.jpg",
+        "team": "Sevilla"
+    },
+    {
+        "name": "Kamil Grabara",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250090273.jpg",
+        "team": "FC Copenhagen"
+    },
+    {
+        "name": "Kevin Diks",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250078678.jpg",
+        "team": "FC Copenhagen"
+    },
+    {
+        "name": "Viktor Claesson",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250024171.jpg",
+        "team": "FC Copenhagen"
+    },
+    {
+        "name": "Carlos Zeca",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250039911.jpg",
+        "team": "FC Copenhagen"
+    },
+    {
+        "name": "Khouma Babacar",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250011547.jpg",
+        "team": "FC Copenhagen"
+    },
+    {
+        "name": "Samuel Soares",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250117408.jpg",
+        "team": "Benfica"
+    },
+    {
+        "name": "Gilberto",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250086713.jpg",
+        "team": "Benfica"
+    },
+    {
+        "name": "Fredrik Aursnes",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250061027.jpg",
+        "team": "Benfica"
+    },
+    {
+        "name": "Enzo Fernandez",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250174838.jpg",
+        "team": "Benfica"
+    },
+    {
+        "name": "David Neres",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250106648.jpg",
+        "team": "Benfica"
+    },
+    {
+        "name": "Keylor Navas",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250031037.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Achraf Hakimi",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250088061.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Sergio Ramos",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/93649.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Marco Verratti",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250006200.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Kylian Mbappe",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250076574.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Neymar",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250039508.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Lionel Messi",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/95803.jpg",
+        "team": "PSG"
+    },
+    {
+        "name": "Wojciech Szczesny",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/108501.jpg",
+        "team": "Juventus"
+    },
+    {
+        "name": "Bremer",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250132322.jpg",
+        "team": "Juventus"
+    },
+    {
+        "name": "Manuel Locatelli",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250066747.jpg",
+        "team": "Juventus"
+    },
+    {
+        "name": "Weston McKennie",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250116904.jpg",
+        "team": "Juventus"
+    },
+    {
+        "name": "Federico Chiesa",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250090398.jpg",
+        "team": "Juventus"
+    },
+    {
+        "name": "Noam Shavit",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/75x75/250164440.jpg",
+        "team": "Maccabi Haifa"
+    },
+    {
+        "name": "Daniel Sundgren",
+        "position": "Defender",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250098283.jpg",
+        "team": "Maccabi Haifa"
+    },
+    {
+        "name": "Ali Mohamed",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250141685.jpg",
+        "team": "Maccabi Haifa"
+    },
+    {
+        "name": "Neta Lavi",
+        "position": "Midfielder",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250058053.jpg",
+        "team": "Maccabi Haifa"
+    },
+    {
+        "name": "Frantzdy Pierrot",
+        "position": "Forward",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250174266.jpg",
+        "team": "Maccabi Haifa"
+    }
+]

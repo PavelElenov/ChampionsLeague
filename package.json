@@ -1,0 +1,24 @@
+{
+  "name": "championsleague",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelElenov/ChampionsLeague.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelElenov/ChampionsLeague/issues"
+  },
+  "homepage": "https://github.com/PavelElenov/ChampionsLeague#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
