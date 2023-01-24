@@ -19,6 +19,8 @@
   "homepage": "https://github.com/PavelElenov/ChampionsLeague#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "handlebars": "^4.7.7",
     "mongoose": "^6.8.4"
   }
 }

@@ -1,8 +1,24 @@
-// Building server.Require = import 
-const app = require('express')();
+// Building server. require = import 
+const express = require('express');
 const mongoose = require("mongoose");
+const hbr = require('express-handlebars');
+const homeController = require('./controllers/homeController');
+const groupsController = require('./controllers/groupsController');
 const { storeAllPlayers, removeAllPlayers } = require('./services/playerService');
 const { storeAllTeams } = require('./services/teamService');
+
+
+//extname, kazva che handlebars files shte imat razshirenie hbs
+const handlebars = hbr.create({
+    extname: ".hbs",
+})
+
+//Create app
+const app = express();
+
+//Tova sa nastroiki na handlebars
+app.engine('.hbs', handlebars.engine);
+app.set("view engine", '.hbs');
 
 start();
 
@@ -23,6 +39,10 @@ async function start(){
 
     // await storeAllTeams();
     // await storeAllPlayers();
+
+    app.use('/static', express.static('static'));
+    app.use(homeController);
+    app.use("/groups", groupsController);
 
 
     // Start server on port 3000.Url = http://localhost:3000 - tova go pishesh v google i shte ti otvori servera

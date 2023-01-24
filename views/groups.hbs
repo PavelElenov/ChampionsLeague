@@ -1,0 +1,31 @@
+<section class="groups">
+    <div class="groups__content">
+        <p class="groups__header">Groups</p>
+
+        {{#each groups}}
+        <div class="group">
+            <p class="group__header">Group {{@key}}</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Played</th>
+                        <th>Won</th>
+                        <th>Draws</th>
+                        <th>Lost</th>
+                        <th>For</th>
+                        <th>Against</th>
+                        <th>Goal diff...</th>
+                        <th class="points">Points</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#each this}}
+                        
+                    {{/each}}
+                </tbody>
+            </table>
+        </div>
+
+        {{/each}}
+    </div>
+</section>

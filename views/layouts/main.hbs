@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/site.css">
+    <link rel='shortcut icon' type='image/x-icon' href='/static/img/mini-logo.png' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+</head>
+
+<body>
+    <section class="content">
+        <header>
+            <nav id="navigation-bar">
+                <div class="start-items">
+                    <a href="/" class="logo"><img src="/static/img/logo.png" alt=""></a>
+                    <div class="bars">
+                        <i class="fa-solid fa-bars"></i>
+                    </div>
+                </div>
+                <div class="links">
+                    <ul class="items">
+                        <li><a href="/">Home</a></li>
+                        {{#if haveUser}}
+                        <li><a href="/groups">Groups</a></li>
+                        <li><a href="/stats">Stats</a></li>
+                        <li><a href="/logout">Logout</a></li>
+                        {{else}}
+                        <li><a href="/login">Login</a></li>
+                        <li><a href="/register">Register</a></li>
+                        {{/if}}
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <main>
+            {{{body}}}
+        </main>
+    </section>
+    <footer>
+        <div>
+            <a href="/" class="logo"><img src="/static/img/logo.png" alt=""></a>
+            <ul class="items">
+                <li><a href="/">Home</a></li>
+                {{#if haveUser}}
+                <li><a href="/groups">Groups</a></li>
+                <li><a href="/stats">Stats</a></li>
+                <li><a href="/logout">Logout</a></li>
+                {{else}}
+                <li><a href="/login">Login</a></li>
+                <li><a href="/register">Register</a></li>
+                {{/if}}
+            </ul>
+        </div>
+        <p>Privacy Terms and conditions Cookie plicy Cookie Settings</p>
+        <p>&copy; 1998-2023 UEFA. All rights reserved.</p>
+    </footer>
+    <script src="/static/scripts/loadLinks.js"></script>
+</body>
+
+</html>

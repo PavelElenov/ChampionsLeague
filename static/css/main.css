@@ -1,0 +1,165 @@
+.content {
+    background-image: url("../img/download.jfif");
+    position: relative;
+    background-position: center top;
+    background-size: 100% auto;
+
+}
+
+#navigation-bar {
+    border-bottom: 1px solid rgb(12, 154, 236);
+    padding: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+i {
+    cursor: pointer;
+}
+
+.logo {
+    display: inline-block;
+    height: 100%;
+    align-self: flex-end;
+}
+
+.links {
+    list-style-type: none;
+    display: none;
+}
+
+.items {
+    list-style-type: none;
+    align-self: flex-end;
+    margin: 0;
+}
+
+.items li {
+    margin-bottom: 0.5rem;
+    text-align: right;
+}
+
+.bars {
+    color: white;
+    align-self: flex-end;
+    font-size: 2.2rem;
+}
+
+.start-items {
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-image: url("https://img.uefa.com/imgml/uefacom/ucl/2018/footer.jpg");
+    background-size: 100%;
+    background-position: center top;
+    padding: 1rem;
+}
+
+footer div {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(12, 154, 236);
+    padding-bottom: 1rem;
+}
+
+footer div ul {
+    list-style-type: none;
+    color: white;
+}
+
+footer div ul li {
+    text-align: right;
+    margin-bottom: 0.2rem;
+}
+
+footer div .logo {
+    height: 12vh;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.items li a:hover {
+    display: inline-block;
+    padding: 0.5rem 1.2rem;
+    color: black;
+    background-color: rgb(76, 243, 187);
+    border-radius: 1rem;
+}
+
+
+@media screen and (min-width:552px) {
+    footer {
+        background-repeat: no-repeat;
+        padding: 2rem;
+    }
+}
+
+@media screen and (min-width:625px) {
+    .links {
+        display: block;
+        align-self: flex-end;
+    }
+
+    #navigation-bar {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .start-items {
+        display: block;
+        margin-bottom: 0;
+    }
+
+    .bars {
+        display: none;
+    }
+
+    .items {
+        display: flex;
+        gap: 1rem;
+    }
+
+    .items li {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .items li {
+        font-size: 1.2rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    #navigation-bar {
+        padding: 1.5rem;
+    }
+}
+
+@media screen and (min-width:1500px) {
+    .items li {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 2rem;
+    }
+
+    #navigation-bar {
+        padding: 2rem;
+    }
+}

@@ -26,6 +26,19 @@ async function storeAllTeams(){
     console.log('All Teams created!!!');
 }
 
+async function getAllTeams(){
+    return await Team.find();
+}
+
+async function getTeamsWithSameGroup(group){
+    let teams = await Team.find({group:group});
+    teams = teams.sort((team1, team2) => team1.rank - team2.rank);
+
+    return teams;
+}
+
 module.exports = {
     storeAllTeams,
+    getAllTeams,
+    getTeamsWithSameGroup,
 }
