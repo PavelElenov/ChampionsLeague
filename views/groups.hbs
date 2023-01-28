@@ -1,13 +1,13 @@
 <section class="groups">
     <div class="groups__content">
         <p class="groups__header">Groups</p>
-
         {{#each groups}}
-        <div class="group">
-            <p class="group__header">Group {{@key}}</p>
+        <div class="group group-{{@key}}">
+            <p>Group {{@key}}</p>
             <table>
                 <thead>
                     <tr>
+                        <td colspan="20"></td>
                         <th>Played</th>
                         <th>Won</th>
                         <th>Draws</th>
@@ -20,12 +20,26 @@
                 </thead>
                 <tbody>
                     {{#each this}}
-                        
+                    <tr>
+                        <td colspan="20">
+                            <div>
+                                <img src={{imgUrl}} alt=""><a href="/groups/squad/{{_id}}">{{name}}</a>
+                            </div>
+                        </td>
+                        <td>{{matches}}</td>
+                        <td>{{wons}}</td>
+                        <td>{{draws}}</td>
+                        <td>{{losts}}</td>
+                        <td>{{goalScored}}</td>
+                        <td>{{goalConceded}}</td>
+                        <td>{{goalDifference}}</td>
+                        <td>{{points}}</td>
+                    </tr>
                     {{/each}}
                 </tbody>
             </table>
-        </div>
 
+        </div>
         {{/each}}
     </div>
 </section>

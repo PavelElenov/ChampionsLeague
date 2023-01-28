@@ -8,10 +8,10 @@ function storeAllPlayers(){
 
         for(let player of players){
             await Player.create({
-                name: player.name,
-                position:player.position,
-                imgUrl:player.imgUrl,
-                team: player.team,
+                'name': player.name,
+                'position':player.position,
+                'imgUrl':player.imgUrl,
+                'team': player.team,
             })
 
             const team = await Team.findOne({name:player.team});
@@ -32,8 +32,18 @@ async function removeAllPlayers(){
     console.log('All players are deleted!');
 }
 
+async function getAllPlayers(){
+    return await Player.find().lean();
+}
+
+async function getPlayerByName(name){
+    return await Player.findOne({name:name}).lean();
+}
+
 module.exports = {
     storeAllPlayers,
     removeAllPlayers,
+    getAllPlayers,
+    getPlayerByName,
 }
 

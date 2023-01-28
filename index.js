@@ -5,7 +5,7 @@ const hbr = require('express-handlebars');
 const homeController = require('./controllers/homeController');
 const groupsController = require('./controllers/groupsController');
 const { storeAllPlayers, removeAllPlayers } = require('./services/playerService');
-const { storeAllTeams } = require('./services/teamService');
+const { storeAllTeams, removeAllTeams } = require('./services/teamService');
 
 
 //extname, kazva che handlebars files shte imat razshirenie hbs
@@ -37,8 +37,12 @@ async function start(){
         }
     });
 
+    // await removeAllTeams();
+    // await removeAllPlayers();
     // await storeAllTeams();
     // await storeAllPlayers();
+    
+    app.use(express.urlencoded({extended:true}));
 
     app.use('/static', express.static('static'));
     app.use(homeController);
@@ -46,7 +50,7 @@ async function start(){
 
 
     // Start server on port 3000.Url = http://localhost:3000 - tova go pishesh v google i shte ti otvori servera
-    app.listen(3000, console.log('Server listerning on port 3000'));
+    app.listen(3000, console.log('Server listening on port 3000'));
 }
 
 

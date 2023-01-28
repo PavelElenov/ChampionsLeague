@@ -9,17 +9,17 @@ async function storeAllTeams(){
 
         for(let team of data.data.table){
             Team.create({
-                name: team.name,
-                group: team.group_name,
-                matches: team.matches,
-                wons: team.won,
-                losts: team.lost,
-                draws: team.drawn,
-                points: team.points,
-                rank: team.rank,
-                goalDifference: team.goal_diff,
-                goalScored: team.goals_scored,
-                goalConceded:team.goals_conceded,
+                'name': team.name,
+                'group': team.group_name,
+                'matches': team.matches,
+                'wons': team.won,
+                'losts': team.lost,
+                'draws': team.drawn,
+                'points': team.points,
+                'rank': team.rank,
+                'goalDifference': team.goal_diff,
+                'goalScored': team.goals_scored,
+                'goalConceded':team.goals_conceded,
             })
         }
     }
@@ -27,18 +27,32 @@ async function storeAllTeams(){
 }
 
 async function getAllTeams(){
-    return await Team.find();
+    return await Team.find().lean();
 }
 
+async function removeAllTeams(){
+    const teams = await Team.find();
+
+    for(let team of teams){
+        await Team.findByIdAndRemove(team._id);
+    }
+};
+
 async function getTeamsWithSameGroup(group){
-    let teams = await Team.find({group:group});
+    let teams = await Team.find({group:group}).lean();
     teams = teams.sort((team1, team2) => team1.rank - team2.rank);
 
     return teams;
+}
+
+async function getTeamById(id){
+    return await Team.findById(id).lean();
 }
 
 module.exports = {
     storeAllTeams,
     getAllTeams,
     getTeamsWithSameGroup,
+    removeAllTeams,
+    getTeamById,
 }

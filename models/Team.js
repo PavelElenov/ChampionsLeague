@@ -13,6 +13,7 @@ const schema = new Schema({
     goalDifference: {type:Number, required: true},
     goalScored: {type:Number, required: true},
     goalConceded:{type:Number, required: true},
+    imgUrl: {type:String, default:""},
     players: {type: [String], default:[], ref: 'Player'},
 });
 

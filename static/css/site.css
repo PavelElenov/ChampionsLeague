@@ -1,5 +1,7 @@
 @import url('./main.css');
 @import url('./home.css');
+@import url('./groups.css');
+@import url('./squad.css');
 
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -11,4 +13,13 @@ img{
     width: 100%;
     height: 100%;
     background-color: transparent;
+    object-fit: cover;
+}
+
+a{
+    text-decoration: none;
+}
+
+*{
+    box-sizing: border-box;
 }

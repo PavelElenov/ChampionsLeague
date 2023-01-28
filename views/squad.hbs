@@ -1,0 +1,17 @@
+<section class="team-info">
+    <img src={{team.imgUrl}} alt="" class="team_img"><span>{{team.name}}</span>
+</section>
+<section class="squad-info">
+    <div class="squad">
+        <p class="squad_header">Squad</p>
+        <div class="players">
+            {{#each players}}
+            <div class="player">
+                <img src={{imgUrl}} alt="" class="player_img">
+                <p class="player_name">{{name}}</p>
+                <p class="player_position">{{position}}</p>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</section>

@@ -1,0 +1,185 @@
+.groups{
+    background-image: url("https://img.uefa.com/imgml/uefacom/ucl/2020/news_m.jpg");
+    background-size: 100% auto;
+    padding:1rem;
+}
+
+.groups__header{
+    text-align: left;
+    color:rgb(4, 40, 107);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.groups__content{
+    width: 95%;
+    margin:0 auto;
+}
+
+.group p{
+    text-align: left;
+    color:black;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+.group{
+    border:1px solid grey;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    background-color: white;
+    width: 100%;
+}
+
+.group table thead tr th:nth-child(5),th:nth-child(6),th:nth-child(7){
+    display: none;
+}
+
+.group table tbody tr td:nth-child(5),td:nth-child(6),td:nth-child(7){
+    display: none;
+}
+
+td,th{
+    padding:0.5rem;
+    text-align: center;
+}
+
+
+.group table{
+    margin-right: 0;
+    border-collapse: collapse;
+}
+
+th{
+    color:rgb(31, 30, 30);
+    font-weight: 500;
+}
+
+.points{
+    font-weight: bold;
+    font-size: 1.1rem;
+    color:black;
+}
+
+.group table tbody tr:not(:last-child){
+    border-bottom: 1px solid rgb(216, 209, 209);
+}
+
+.group table tbody tr img{
+    width: 20%;
+}
+
+.group-A table tbody tr img{
+    width: 25%;
+}
+
+.group table tbody tr div{
+    text-align: left;
+    display: flex;
+    gap:0.5rem;
+    align-items: center;
+}
+
+.group table tbody tr div a{
+    color:black;
+}
+
+
+@media screen and (min-width:600px){
+    th,td,.group table tbody tr div span{
+        font-size:1.3rem;
+    }
+
+    .group table tbody tr img{
+        width: 23%;
+    }
+
+    .group-A table tbody tr img{
+        width: 30%;
+    }
+
+    .points{
+        font-size: 1.5rem;
+    }
+
+    .group p{
+        font-size: 1.6rem;
+    }
+
+    .groups__header{
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (min-width:750px){
+    .group table tbody tr td:nth-child(5),td:nth-child(6),td:nth-child(7){
+        display: table-cell;
+    }
+
+    .group table thead tr th:nth-child(5),th:nth-child(6),th:nth-child(7){
+        display: table-cell;
+    }
+}
+
+@media screen and (min-width:900px){
+    .groups__content{
+        width: 83%;
+    }
+
+    .group table tbody tr img{
+        width: 30%;
+    }
+
+    .group-A table tbody tr img{
+        width: 35%;
+    }
+}
+
+@media screen and (min-width:1000px){
+    td,th{
+        padding:1rem;
+    }
+
+    /* .group{
+        width: 53rem;
+    } */
+}
+
+@media screen and (min-width:1200px){
+    td,th{
+        padding:1.2rem;
+    }
+
+    .groups__content{
+        width: 80%;
+    }
+}
+
+@media screen and (min-width:1300px){
+    .groups__content{
+        width:75%;
+    }
+}
+
+@media screen and (min-width:1400px){
+    .groups__content{
+        width: 67%;
+    }
+}
+
+@media screen and (min-width:1600px){
+    .groups__content{
+        width: 60%;
+    }
+
+    .groups__header{
+        font-size: 2rem;
+    }
+
+    .group{
+        padding:2rem;
+    }
+}
+

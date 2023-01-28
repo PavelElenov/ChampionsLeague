@@ -263,6 +263,12 @@
         "team": "Rangers"
     },
     {
+        "name": "Alex Meret",
+        "position": "Goalkeeper",
+        "imgUrl": "https://img.uefa.com/imgml/TP/players/1/2023/324x324/250066753.jpg",
+        "team": "Napoli"
+    },
+    {
         "name":"Claudio Ramos",
         "position":"Goalkeeper",
         "imgUrl":"https://img.uefa.com/imgml/TP/players/1/2023/324x324/1909059.jpg",

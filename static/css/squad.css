@@ -1,0 +1,79 @@
+.squad-info{
+    background-color: rgb(235, 225, 225);
+    padding:1rem;
+}
+
+.squad{
+    background-color: white;
+    padding:1.5rem;
+    border-radius: 10px;
+    width: 91%;
+    margin: 0 auto;
+}
+
+.players{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+    text-align: center;
+}
+
+.team_img{
+    width: 7%;
+}
+
+.team-info{
+    padding:1.5rem;
+    display: flex;
+    align-items: center;
+    gap:1rem;
+    width: 92%;
+    margin:0 auto;
+}
+
+.team-info span{
+    color:white;
+    font-weight: bold;
+    font-size:1.5rem;
+}
+
+.squad_header{
+    color:rgb(9, 3, 88);
+    text-align:left;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.player_img{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 100%;
+}
+
+.player_name,.player_position{
+    text-align: center;
+    color:rgb(9, 3, 88);
+}
+
+.player_name{
+    font-weight: bold;
+    font-size:1.3rem;
+}
+
+@media screen and (min-width:1600px){
+    .team_img{
+        width: 4%;
+    }
+
+    .player_position{
+        font-size: 1.2rem;
+    }
+
+    .team-info span{
+        font-size: 2rem;
+    }
+
+    .squad-info{
+        padding:2rem;
+    }
+}

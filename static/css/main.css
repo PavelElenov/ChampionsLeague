@@ -11,6 +11,9 @@
     padding: 1rem;
     position: relative;
     z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
 a {
@@ -30,7 +33,7 @@ i {
 
 .links {
     list-style-type: none;
-    display: none;
+    align-self: flex-end;
 }
 
 .items {
@@ -50,12 +53,6 @@ i {
     font-size: 2.2rem;
 }
 
-.start-items {
-    display: flex;
-    justify-content: space-between;
-    height: 12vh;
-    margin-bottom: 1rem;
-}
 
 footer {
     background-image: url("https://img.uefa.com/imgml/uefacom/ucl/2018/footer.jpg");
@@ -81,8 +78,8 @@ footer div ul li {
     margin-bottom: 0.2rem;
 }
 
-footer div .logo {
-    height: 12vh;
+.logo {
+    height: 10vh;
 }
 
 p {
@@ -98,6 +95,11 @@ p {
     border-radius: 1rem;
 }
 
+.items {
+    display: flex;
+    gap: 1rem;
+}
+
 
 @media screen and (min-width:552px) {
     footer {
@@ -107,46 +109,26 @@ p {
 }
 
 @media screen and (min-width:625px) {
-    .links {
-        display: block;
-        align-self: flex-end;
-    }
-
-    #navigation-bar {
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .start-items {
-        display: block;
-        margin-bottom: 0;
-    }
-
-    .bars {
-        display: none;
-    }
-
-    .items {
-        display: flex;
-        gap: 1rem;
-    }
-
     .items li {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
+    }
+    
+    #navigation-bar{
+        padding:1rem 1.5rem;
     }
 }
 
 @media screen and (min-width:1000px) {
     .items li {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 
-    p {
+    footer p {
         font-size: 1.5rem;
     }
 
     #navigation-bar {
-        padding: 1.5rem;
+        padding: 1rem 2rem;
     }
 }
 
@@ -155,11 +137,11 @@ p {
         font-size: 2rem;
     }
 
-    p {
+    footer p {
         font-size: 2rem;
     }
 
     #navigation-bar {
-        padding: 2rem;
+        padding: 1rem 2.5rem;
     }
 }
