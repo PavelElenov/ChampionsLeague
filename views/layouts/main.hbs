@@ -22,9 +22,8 @@
                 <div class="links">
                     <ul class="items">
                         <li><a href="/">Home</a></li>
-                        {{#if haveUser}}
+                        {{#if user}}
                         <li><a href="/groups">Groups</a></li>
-                        <li><a href="/stats">Stats</a></li>
                         <li><a href="/logout">Logout</a></li>
                         {{else}}
                         <li><a href="/login">Login</a></li>
@@ -43,9 +42,8 @@
             <a href="/" class="logo"><img src="/static/img/logo.png" alt=""></a>
             <ul class="items">
                 <li><a href="/">Home</a></li>
-                {{#if haveUser}}
+                {{#if user}}
                 <li><a href="/groups">Groups</a></li>
-                <li><a href="/stats">Stats</a></li>
                 <li><a href="/logout">Logout</a></li>
                 {{else}}
                 <li><a href="/login">Login</a></li>

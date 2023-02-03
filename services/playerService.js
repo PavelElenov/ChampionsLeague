@@ -13,10 +13,6 @@ function storeAllPlayers(){
                 'imgUrl':player.imgUrl,
                 'team': player.team,
             })
-
-            const team = await Team.findOne({name:player.team});
-            team.players.push(player.name); 
-            team.save();
         }
         console.log("Players are created!")
     });

@@ -133,13 +133,6 @@ p {
 }
 
 @media screen and (min-width:1500px) {
-    .items li {
-        font-size: 2rem;
-    }
-
-    footer p {
-        font-size: 2rem;
-    }
 
     #navigation-bar {
         padding: 1rem 2.5rem;

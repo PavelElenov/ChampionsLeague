@@ -2,6 +2,7 @@
 @import url('./home.css');
 @import url('./groups.css');
 @import url('./squad.css');
+@import url("./login-regiser.css");
 
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

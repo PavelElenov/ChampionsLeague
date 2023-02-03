@@ -4,6 +4,8 @@ const mongoose = require("mongoose");
 const hbr = require('express-handlebars');
 const homeController = require('./controllers/homeController');
 const groupsController = require('./controllers/groupsController');
+const tokenParser = require("./middlewares/token");
+const cookieParser = require("cookie-parser");
 const { storeAllPlayers, removeAllPlayers } = require('./services/playerService');
 const { storeAllTeams, removeAllTeams } = require('./services/teamService');
 
@@ -37,12 +39,13 @@ async function start(){
         }
     });
 
-    // await removeAllTeams();
-    // await removeAllPlayers();
+    
     // await storeAllTeams();
     // await storeAllPlayers();
     
     app.use(express.urlencoded({extended:true}));
+    app.use(cookieParser());
+    app.use(tokenParser());
 
     app.use('/static', express.static('static'));
     app.use(homeController);

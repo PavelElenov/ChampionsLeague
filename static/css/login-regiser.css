@@ -1,0 +1,140 @@
+.login,.register{
+    padding:2rem;
+}
+
+form{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+form .header{
+    text-align: center;
+    border-bottom: 1px solid rgb(192, 183, 183);
+    padding: 1rem 0;
+}
+
+form .header h1{
+    margin:0;
+    font-size: 1.7rem;
+}
+
+form .form_content{
+    padding: 1.5rem;
+}
+
+form .form_content div{
+    margin-bottom:1rem;
+}
+
+form .form_content div input{
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 0.3rem;
+    border:none;
+    border-bottom: 2px solid rgb(192, 183, 183);
+}
+
+.submit_btn{
+    width: 100%;
+    border:none;
+    border-radius: 30px;
+    background-color: #0081CF;
+    padding: 0.5rem 0;
+    font-size: 1.2rem;
+    color:white;
+}
+
+form .form_content p{
+    color:black;
+    font-size:1.1rem;
+    margin-bottom:0;
+}
+
+form .form_content p a{
+    color: #0081CF
+}
+
+.submit_btn:hover{
+    transform: scale(1.1);
+}
+
+form .form_content p a:hover{
+    font-size: 1.8rem;
+}
+
+.error{
+    color:red;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+@media screen and (min-width:550px){
+    form{
+        width: 70%;
+
+    }
+}
+
+@media screen and (min-width:650px){
+    form{
+        width: 60%;
+    }
+}
+
+@media screen and (min-width:750px){
+    form{
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    form{
+        width: 40%;
+    }
+
+    .login,.register{
+        padding:3rem 0;
+    }
+}
+
+@media screen and (min-width: 1500px){
+    form{
+        width: 30%;
+    }
+
+    .login,.register{
+        padding:5rem 0;
+    }
+
+    form .header h1{
+        font-size: 2.3rem;
+    }
+
+    form .form_content{
+        padding:2rem;
+    }
+
+    form .form_content div{
+        margin-bottom: 1.5rem;
+    }
+
+    .submit_btn{
+        padding: 0.8rem;
+        font-size:1.5rem;
+    }
+
+    form .form_content p{
+        font-size: 1.5rem;
+    }
+
+    form .form_content div input{
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+    .error{
+        font-size: 2rem;
+    }
+}

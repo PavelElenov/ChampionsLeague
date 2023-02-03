@@ -1,0 +1,16 @@
+<section class="login">
+    {{#if error}}
+    <p class="error">{{error}}</p>
+    {{/if}}
+    <form action="/login" method="post">
+        <div class="header">
+            <h1>Login</h1>
+        </div>
+        <div class="form_content">
+            <div><input type="text" placeholder="Email Address" name="email"></div>
+            <div><input type="password" placeholder="Password" name="password"></div>
+            <button class="submit_btn">Login</button>
+            <p>Not a member? <a href="/register">Register</a></p>
+        </div>
+    </form>
+</section>

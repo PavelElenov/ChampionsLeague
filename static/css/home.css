@@ -197,20 +197,22 @@
         width: 30%;
     }
 
-    .
+    .lates-news .info__header{
+        max-height: 370px;
+    }
 }
 
 @media screen and (min-width: 1600px){
     .lates-news article{
-        padding: 1rem 7rem;
+        padding: 1rem 10rem;
     }
 
     .info{
-        padding: 2rem 7rem;
+        padding: 2rem 10rem;
     }
 
     .lates-news__header{
-        padding: 2rem 0 0 7rem;
+        padding: 2rem 0 0 10rem;
         font-size: 2rem;
     }
 
