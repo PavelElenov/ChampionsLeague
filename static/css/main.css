@@ -2,7 +2,7 @@
     background-image: url("../img/download.jfif");
     position: relative;
     background-position: center top;
-    background-size: 100% auto;
+    background-size: cover;
 
 }
 
@@ -56,8 +56,8 @@ i {
 
 footer {
     background-image: url("https://img.uefa.com/imgml/uefacom/ucl/2018/footer.jpg");
-    background-size: 100%;
-    background-position: center top;
+    background-size: cover;
+    background-position: center;
     padding: 1rem;
 }
 
@@ -103,7 +103,6 @@ p {
 
 @media screen and (min-width:552px) {
     footer {
-        background-repeat: no-repeat;
         padding: 2rem;
     }
 }
