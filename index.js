@@ -39,7 +39,8 @@ async function start(){
         }
     });
 
-    
+    // await removeAllPlayers();
+    // await removeAllTeams();
     // await storeAllTeams();
     // await storeAllPlayers();
     
