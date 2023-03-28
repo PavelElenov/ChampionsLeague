@@ -4,7 +4,7 @@
 
 form{
     background-color: white;
-    width: 80%;
+    max-width: 450px;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -57,11 +57,12 @@ form .form_content p a{
 }
 
 .submit_btn:hover{
-    transform: scale(1.1);
+    background-color: #1ba0f3;
 }
 
 form .form_content p a:hover{
-    font-size: 1.8rem;
+    transform: scale(1.1);
+    display: inline-block;
 }
 
 .error{
@@ -70,44 +71,13 @@ form .form_content p a:hover{
     font-size: 1.5rem;
 }
 
-@media screen and (min-width:550px){
-    form{
-        width: 70%;
-
-    }
-}
-
-@media screen and (min-width:650px){
-    form{
-        width: 60%;
-    }
-}
-
-@media screen and (min-width:750px){
-    form{
-        width: 50%;
-    }
-}
-
 @media screen and (min-width: 1000px){
-    form{
-        width: 40%;
-    }
-
-    .login,.register{
-        padding:3rem 0;
-    }
-}
-
-@media screen and (min-width: 1500px){
-    form{
-        width: 30%;
-    }
-
     .login,.register{
         padding:5rem 0;
     }
+}
 
+@media screen and (min-width: 1440px){
     form .header h1{
         font-size: 2.3rem;
     }
